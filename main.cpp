@@ -37,5 +37,8 @@ void DrawMain()
     
     FillCircle(0, 0, 20, kcolorRed);
     FillCircle(0, 0, 20, kcolorGreen);
+    
+    //test_Yano
+    DrawCircle(0, 0, 50, kColorRed);
 }
 
